@@ -343,8 +343,8 @@ abcd button{
     border-bottom: 1px solid rgb(0, 0, 0);
   }
   .w {
-    width: 172%;
-    height: 525px;
+    width: 300%;
+    height: 600px;
     border: 1px solid rgb(0, 0, 0);
     box-sizing: border-box;
     background-color: #f5bc27;
